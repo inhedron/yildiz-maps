@@ -31,17 +31,17 @@ $EXTMIN
  10
 413184.071488437
  20
-4594467.10676935
+4594467.106769349
  30
-309.9999999995725
+310.0
   9
 $EXTMAX
  10
-413486.6952182787
+413486.6952182789
  20
-4594825.79040619
+4594825.790406191
  30
-361.9233398436718
+361.92333984375
   9
 $LIMMIN
  10
@@ -497,19 +497,19 @@ $TDUCREATE
   9
 $TDUPDATE
  40
-2458291.461839155
+2458384.706804225
   9
 $TDUUPDATE
  40
-2458291.336839155
+2458384.581804225
   9
 $TDINDWG
  40
-0.0486960069
+0.0487260532
   9
 $TDUSRTIMER
  40
-0.0380756134
+0.0000300579
   9
 $USRTIMER
  70
@@ -549,7 +549,7 @@ $SPLINESEGS
   9
 $HANDSEED
   5
-F55
+F6B
   9
 $SURFTAB1
  70
@@ -1123,7 +1123,7 @@ ObjectDBX Classes
  90
         0
  91
-        4
+        6
 280
      0
 281
@@ -1139,7 +1139,7 @@ ObjectDBX Classes
  90
      4095
  91
-        4
+        6
 280
      0
 281
@@ -1155,7 +1155,7 @@ ObjectDBX Classes
  90
      1153
  91
-        4
+        6
 280
      0
 281
@@ -1171,7 +1171,7 @@ ObjectDBX Classes
  90
      1153
  91
-        4
+        6
 280
      0
 281
@@ -1187,7 +1187,7 @@ ObjectDBX Classes
  90
         0
  91
-        4
+        6
 280
      0
 281
@@ -1203,7 +1203,7 @@ ObjectDBX Classes
  90
      4095
  91
-        4
+        6
 280
      0
 281
@@ -1219,7 +1219,7 @@ ACDB_MLEADERSTYLE_CLASS
  90
      4095
  91
-        4
+        6
 280
      0
 281
@@ -1235,7 +1235,7 @@ ObjectDBX Classes
  90
      1025
  91
-        4
+        6
 280
      0
 281
@@ -1251,7 +1251,7 @@ ObjectDBX Classes
  90
      1025
  91
-        4
+        6
 280
      0
 281
@@ -1267,7 +1267,7 @@ SCENEOE
  90
      1153
  91
-        4
+        6
 280
      0
 281
@@ -1283,7 +1283,7 @@ ObjectDBX Classes
  90
      1152
  91
-        4
+        6
 280
      0
 281
@@ -1329,9 +1329,9 @@ AcDbViewportTableRecord
  21
 1.0
  12
--191925.8361419011
+-191836.7275887108
  22
-288849.8445252711
+288941.6451473134
  13
 0.0
  23
@@ -1357,9 +1357,9 @@ AcDbViewportTableRecord
  37
 77246.091473863
  40
-365.8573095762916
+119.8841232025818
  41
-2.542929292929293
+2.309633027522936
  42
 50.0
  43
@@ -1591,7 +1591,7 @@ AcDbLayerTableRecord
   2
 0
  70
-     4
+     0
  62
      7
   6
@@ -1619,7 +1619,7 @@ AcDbLayerTableRecord
   2
 SEMBOL_BACA_AGZI
  70
-     0
+     4
  62
      7
   6
@@ -1647,7 +1647,7 @@ AcDbLayerTableRecord
   2
 AYAK
  70
-     0
+     4
  62
      7
   6
@@ -1743,7 +1743,7 @@ AcDbLayerTableRecord
   2
 georef
  70
-     0
+     4
  62
      5
   6
@@ -2017,7 +2017,7 @@ BLOCK_RECORD
 100
 AcDbSymbolTable
  70
-    22
+    17
   0
 BLOCK_RECORD
   5
@@ -4887,7 +4887,7 @@ AcadDim
   3
 ACDB_RECOMPOSE_DATA
 350
-F54
+F6A
   3
 AcDbVariableDictionary
 350
@@ -5497,7 +5497,7 @@ AcDbXrecord
   0
 XRECORD
   5
-F54
+F6A
 102
 {ACAD_REACTORS
 330
@@ -6063,15 +6063,15 @@ Model
  14
 413184.071488437
  24
-4594467.10676935
+4594467.106769349
  34
-309.9999999995725
+310.0
  15
-413486.6952182787
+413486.6952182789
  25
-4594825.79040619
+4594825.790406191
  35
-361.9233398436718
+361.92333984375
 146
 0.0
  13
@@ -7245,7 +7245,7 @@ TABLESTYLE
 102
 {ACAD_XDICTIONARY
 360
-F52
+F68
 102
 }
 330
@@ -11127,7 +11127,7 @@ AcDbDictionary
   3
 ACAD_XREC_ROUNDTRIP
 360
-F50
+F66
   0
 DICTIONARY
   5
@@ -11143,11 +11143,11 @@ AcDbDictionary
   3
 ACAD_XREC_ROUNDTRIP
 360
-F51
+F67
   0
 DICTIONARY
   5
-F52
+F68
 330
 271
 100
@@ -11159,11 +11159,11 @@ AcDbDictionary
   3
 ACAD_ROUNDTRIP_2008_TABLESTYLE_CELLSTYLEMAP
 360
-F53
+F69
   0
 XRECORD
   5
-F50
+F66
 102
 {ACAD_REACTORS
 330
@@ -11187,7 +11187,7 @@ FLAGS
   0
 XRECORD
   5
-F51
+F67
 102
 {ACAD_REACTORS
 330
@@ -11211,15 +11211,15 @@ FLAGS
   0
 CELLSTYLEMAP
   5
-F53
+F69
 102
 {ACAD_REACTORS
 330
-F52
+F68
 102
 }
 330
-F52
+F68
 100
 AcDbCellStyleMap
  90
